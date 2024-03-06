@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on React </br>
+🔭 I’m currently working with React </br>
 🌱 I’m currently learning Graphic Designing </br>
 ⚡ I am a potterhead and love reading </br>
 :pencil: I write stories </br>
