@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/goodreads.png" width="45"/>
   </a>
 </p>
+
 #### 🛠️  Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
