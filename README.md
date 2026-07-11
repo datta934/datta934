@@ -12,34 +12,35 @@ Here are some ideas to get you started:
 :pencil: I write stories </br>
 
 #### 🔗  Connect with me
-<a href="https://mauaadatta.wordpress.com/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/wordpress.svg" width="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mauaa-datta-4b8455142/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" width="50"/>
-</a>
-
-<a href="https://www.instagram.com/_md_tales">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg" width="50"/>
-</a>
-
-<a href="https://www.goodreads.com/user/show/102401696-mauaa-d">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/goodreads.svg" width="50"/>
-</a>
+<p align="left">
+  <a href="https://mauaadatta.wordpress.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/wordpress.png" width="45"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mauaa-datta-4b8455142/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
+  </a>
+  <a href="https://www.instagram.com/_md_tales" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="45"/>
+  </a>
+  <a href="https://www.goodreads.com/user/show/102401696-mauaa-d" target="_blank">
+    <img src="https://img.icons8.com/color/48/goodreads.png" width="45"/>
+  </a>
+</p>
 #### 🛠️  Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
