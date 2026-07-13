@@ -6,28 +6,119 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working with React </br>
-🌱 I’m currently learning Graphic Designing </br>
-⚡ I am a potterhead and love reading </br>
-:pencil: I write stories </br>
+# Hi there 👋 I'm Mauaa Datta
 
-#### 🔗  Connect with me
-<p align="left">
-  <a href="https://mauaadatta.wordpress.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/wordpress.png" width="45"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mauaa-datta-4b8455142/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
-  </a>
-  <a href="https://www.instagram.com/_md_tales" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="45"/>
-  </a>
-  <a href="https://www.goodreads.com/user/show/102401696-mauaa-d" target="_blank">
-    <img src="https://img.icons8.com/color/48/goodreads.png" width="45"/>
-  </a>
+<h3 align="center">
+Senior Frontend Engineer • Technical Lead • UI Architect
+</h3>
+
+<p align="center">
+Building scalable frontend architectures, design systems, and high-performance web applications for over 12 years.
 </p>
 
-#### 🛠️  Languages and Tools
+---
+
+## 🚀 About Me
+
+```javascript
+const mauaa = {
+  role: "Senior Frontend Engineer / UI Architect",
+  experience: "12+ Years",
+  specialties: [
+    "Frontend Architecture",
+    "Angular",
+    "React",
+    "TypeScript",
+    "Design Systems",
+    "Performance Engineering"
+  ],
+  currentlyWorkingWith: "React",
+  currentlyLearning: "Graphic Designing",
+  hobbies: [
+    "Reading",
+    "Story Writing",
+    "Potterhead"
+  ]
+};
+```
+
+---
+
+## ✨ Quick Facts
+
+🔭 I’m currently working with **React**
+🌱 I’m currently learning **Graphic Designing**
+⚡ I am a **Potterhead** and love reading
+📝 I write stories and creative fiction
+🎯 Passionate about Frontend Architecture and Design Systems
+🚀 Building products that scale across teams and organizations
+
+---
+
+## 🏆 Career Snapshot
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Experience
+
+✔ 12+ Years in Software Development
+
+✔ Technical Lead
+
+✔ Frontend Architect
+
+✔ Design System Contributor
+
+✔ Engineering Mentor
+
+</td>
+
+<td width="50%">
+
+### 🌍 Domains
+
+🏅 Sports Analytics
+
+🎬 Media & Streaming
+
+✈ Travel
+
+🛒 E-Commerce
+
+🤖 Automation Platforms
+
+📱 Enterprise Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 Architecture Mindset
+
+> "Good UI is what users notice. Great architecture is what they never notice."
+
+I enjoy solving problems around:
+
+* Scalable Frontend Architecture
+* Design Systems
+* Component Libraries
+* Accessibility
+* State Management
+* Performance Optimization
+* Developer Experience
+* Engineering Standards
+* Team Leadership
+
+---
+
+# ⚙️ Tech Stack
+
+<!-- ADD YOUR SKILL ICONS/BADGES HERE -->
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -45,3 +136,52 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
+
+---
+# ✍️ Beyond Coding
+
+When I'm not coding, you'll probably find me:
+
+📚 Reading books
+
+⚡ Re-reading Harry Potter
+
+📝 Writing short stories
+
+🎨 Exploring graphic design
+
+☕ Turning coffee into architecture decisions
+
+---
+
+# 🌐 Connect With Me
+
+<!-- ADD SOCIAL LINKS HERE -->
+
+<p align="center">
+  <a href="https://mauaadatta.wordpress.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/wordpress.png" width="45"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mauaa-datta-4b8455142/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
+  </a>
+  <a href="https://www.instagram.com/_md_tales" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="45"/>
+  </a>
+  <a href="https://www.goodreads.com/user/show/102401696-mauaa-d" target="_blank">
+    <img src="https://img.icons8.com/color/48/goodreads.png" width="45"/>
+  </a>
+</p>
+
+---
+
+## 💬 Favorite Quote
+
+> "Any sufficiently advanced frontend is indistinguishable from magic."
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
+
